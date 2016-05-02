@@ -1,0 +1,76 @@
+---
+layout: post
+title: 'NKO 2013'
+date: 2013-11-12 23:01
+categories: hackathon
+---
+[NKO 2013 活動頁面](http://nodeknockout.nodejs.tw/)
+
+[台北市內湖區堤頂大道二段187號(神通大樓)](https://www.google.com.tw/maps/preview#!q=台北市內湖區堤頂大道二段187號)
+
+啊~ 又來到美好的黑客松時間了 XD
+
+還記得去年的女僕嗎? (NKO 2012 - Team Mr.TVBS - Servant)
+
+![](http://i.imgur.com/IVTEGZt.png)
+
+現在看還是超可愛啊 >///<
+
+好啦我決定今年要跟以往不一樣！做個不是遊戲的作品好了
+
+<!--more-->
+
+結果我還是傲嬌了... Orz
+
+塔噠~ 歡迎來到忍者的世界 (隱身
+
+![](http://i.imgur.com/RMU90K7.png)
+
+忍之Dart(諧音忍之道)
+---
+
+**忍者與武士之間的熱血對決!!!**
+
+![](http://i.imgur.com/Jc8zVZF.png)
+
+開發指標
+---
+
+**結合行動裝置跟桌上型電腦(或筆電)來模擬像家用遊戲主機的操作手把跟遊戲螢幕**
+
+![pc.png](http://i.imgur.com/Op2bZWw.png)
+![mobile.png](http://i.imgur.com/3vPkBYD.png)
+
+遊戲情境
+---
+
+由我們帥氣的美術設計師跟除錯專員為大家表演 XDDDD
+
+![demo.jpg](http://i.imgur.com/A3X8pTr.jpg)
+
+以下是裝置操作的展示
+
+![step1.jpg](http://i.imgur.com/tWuBu1T.jpg)
+
+![step2.jpg](http://i.imgur.com/DpbDrnW.jpg)
+
+![step3.jpg](http://i.imgur.com/BFmZhc1.jpg)
+
+![step4.jpg](http://i.imgur.com/uy3sd34.jpg)
+
+成果
+---
+
+很榮幸的獲得評審們及在場團隊的青睞 得到了第三名!!! :D
+
+![cup.jpg](http://i.imgur.com/wmd3XB9.jpg)
+
+![photo.jpg](http://i.imgur.com/FQyFNTA.jpg)
+
+結語
+---
+這次的活動真的讓我重拾了往日的開發效率，不知是否因為當兵的關係(賣牽拖啦!)，使我的coding速度以及邏輯思考能力下降一大截啊啊啊!!!所以... 積極鼓勵大家跟我一起參加黑客松coding到天明 XDDDD
+
+其實忍之Dart並不是我們第一個題目，也是歷經了一番峰迴路轉才決定此題目的，然而我們團隊MCO也對此有相當的興趣與回饋，最後才促成它的誕生，真的很感謝隊友 [@fongci](http://github.com/tonebeta) 跟 [@babaoice](http://github.com/babaoice) 的大力支持，沒有fongci的強大美術能力與babaoice幫忙找素材除錯，我根本無法專心致力於程式的開發，再次感謝他們倆。
+
+本篇純粹只是簡單紀錄跟心得抒發，有關我們忍之Dart的相關遊戲資訊請移駕至[此處](http://lhc.2013.nodeknockout.com)，還有想看NKO的參賽隊伍資訊請到[此處](http://nodeknockout.com/teams/lhc)，另外也請路過的親朋好友親戚50來幫我們投票支持我們喔！XD
